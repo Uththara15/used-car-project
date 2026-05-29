@@ -150,23 +150,7 @@ Planned tools and technologies:
 
 6. Documentation and presentation
 
-
-## 10. Work Division by CRISP-DM Phases
-
-| Phase                               | Tasks                                                     | Responsibility |
-| ----------------------------------- | --------------------------------------------------------- | -------------- |
-| **Phase 1: Business Understanding** | Identify goals, requirements, deliverables                | Whole Team     |
-| **Phase 2: Data Understanding**     | Load data, explore, visualize, inspect quality            | Whole Team     |
-| **Phase 3: Data Preparation**       | Cleaning, feature engineering, encoding, splitting data   | Whole Team     |
-| **Phase 4: Modeling**               | Train models, tune parameters, evaluate performance       | Whole Team     |
-| **Phase 5: Evaluation**             | Compare results, verify feasibility, validate assumptions | Whole Team     |
-| **Phase 6: Deployment**             | Present results, demo model, create dashboard             | Whole Team     |
-| **Phase 7: Final Report**           | Write documentation, prepare slides, present results      | Whole Team     |
-
-All project phases will be collaboratively completed by the entire team.
-Team members will support each other throughout the process and share equal responsibility for project outcomes
-
-## 11. Project Schedule
+## 10. Project Schedule
 
 The timeline below outlines the planned schedule for completing the CRISP-DM phases:
 
